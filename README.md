@@ -5,8 +5,9 @@
 ---
 
 ### 🚀 Sobre mim
-- 8+ anos em suporte N3 (Verint, NICE, Genesys, Avaya, Cisco)
+- 20+ anos em suporte Level 3 (Verint, NICE, Genesys, Avaya, Cisco)
 - Coordenei Control Desk na Mutant (Vivo, TIM, Itaú, Porto Seguro)
+- Especialista Técnico de Instalação e Suporte (Na Interaxa, Verint e Wittel)
 - ITIL Foundation | CCNA | NICE Certified | Genesys ICCE
 - Automatização de relatórios, backups e análise de dados
 - Conhecimento em Windows Server, Active Directory, SQL Server, Python
